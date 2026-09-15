@@ -12,3 +12,6 @@ Front: Next.js + TS + **Magic UI + Ant Design** · ห้าม emoji · ห้�
 - Mobile-first พอใช้ได้
 - **Ant Design** = โครงฟอร์ม/ตาราง/เลย์เอาต์ · **Magic UI** = motion/accent ที่เข้าชุด
 - ไม่ทำ design system เต็มในรอบ stub
+
+## QA evidence
+Tanya UI smoke ต้องแคป screenshot ขั้นต่ำ: login · พอร์ต · compare · เก็บใน inbox + อ้างใน HANDOFF · Sober ตรวจรูปก่อนรับ PASS
