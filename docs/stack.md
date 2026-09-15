@@ -8,7 +8,7 @@
 ## Runtime
 | Layer | Choice |
 |-------|--------|
-| Front | **Next.js + TypeScript** · UI: **Mantine v7** (+ Tabler icons) — เข้ากับทิศ antd/Magic UI ได้; เปลี่ยน lib ต้องอัปเดต spec |
+| Front | **Next.js + TypeScript** · UI: **shadcn/ui + Magic UI** (เลิก Mantine — CHANGE 2026-09-15) · ห้าม emoji |
 | Back | **Bun + Hono + TypeScript** |
 | DB | **PostgreSQL** (สมมติจนกว่าคนทัก) |
 | Market | US equities only · **EOD/delayed** · งบ **$0–10/mo** |

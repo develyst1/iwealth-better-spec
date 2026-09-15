@@ -13,3 +13,4 @@
 | [stack.md](stack.md) | Stack + branch rules |
 | [vendors.md](vendors.md) | Vendor options (not locked) |
 | [../testcase/v0/README.md](../testcase/v0/README.md) | Acceptance cases |
+- [changelog/2026-09-15-ui-shadcn.md](changelog/2026-09-15-ui-shadcn.md) — เลิก Mantine → shadcn/ui + Magic UI
