@@ -8,7 +8,7 @@
 ## Runtime
 | Layer | Choice |
 |-------|--------|
-| Front | **Next.js + TypeScript** · UI: **shadcn/ui + Magic UI** (เลิก Mantine — CHANGE 2026-09-15) · ห้าม emoji |
+| Front | **Next.js + TypeScript** · UI: **Magic UI + Ant Design** (เลิก Mantine / เลิก shadcn — CHANGE 2026-09-15) · ห้าม emoji |
 | Back | **Bun + Hono + TypeScript** |
 | DB | **PostgreSQL** (สมมติจนกว่าคนทัก) |
 | Market | US equities only · **EOD/delayed** · งบ **$0–10/mo** |

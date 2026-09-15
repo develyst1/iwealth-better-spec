@@ -1,6 +1,6 @@
 # UX smoke testcases (v0) — หลังมี front slice
 
-Front: Next.js + TS + shadcn/ui + Magic UI · ห้าม emoji · เรียก back stub
+Front: Next.js + TS + Magic UI + Ant Design · ห้าม emoji · เรียก back stub
 
 | TC | ประเภท | หัวข้อ |
 |----|--------|--------|

@@ -14,3 +14,4 @@
 | [vendors.md](vendors.md) | Vendor options (not locked) |
 | [../testcase/v0/README.md](../testcase/v0/README.md) | Acceptance cases |
 - [changelog/2026-09-15-ui-shadcn.md](changelog/2026-09-15-ui-shadcn.md) — เลิก Mantine → shadcn/ui + Magic UI
+- [changelog/2026-09-15-ui-magic-antd.md](changelog/2026-09-15-ui-magic-antd.md) — เลิก shadcn → Magic UI + Ant Design

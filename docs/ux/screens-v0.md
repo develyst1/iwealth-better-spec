@@ -1,6 +1,6 @@
 # UX screens v0 (thin)
 
-Front: Next.js + TS + **shadcn/ui + Magic UI** · ห้าม emoji · ห้าม Mantine
+Front: Next.js + TS + **Magic UI + Ant Design** · ห้าม emoji · ห้าม Mantine · ห้าม shadcn
 
 1. **Login / Register** — อีเมล+รหัส
 2. **Portfolio list** — สร้าง/เปลี่ยนชื่อ/ลบ · เข้าพอร์ต
@@ -10,5 +10,5 @@ Front: Next.js + TS + **shadcn/ui + Magic UI** · ห้าม emoji · ห้�
 
 ## Notes
 - Mobile-first พอใช้ได้
-- ใช้คอมโพเนนต์ shadcn เป็นฐาน · Magic UI สำหรับ motion/accent ที่เข้าชุด
+- **Ant Design** = โครงฟอร์ม/ตาราง/เลย์เอาต์ · **Magic UI** = motion/accent ที่เข้าชุด
 - ไม่ทำ design system เต็มในรอบ stub
