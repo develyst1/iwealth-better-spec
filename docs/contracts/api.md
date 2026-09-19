@@ -41,3 +41,14 @@ Timestamps: ISO-8601 UTC · Money: number USD · Symbol: uppercase
 
 ## Out of v0
 - Real vendor proxy beyond stub · OAuth · streaming WS
+
+## JSON field names (LOCKED 2026-09-19)
+
+Wire JSON matches back stub shapes:
+
+- Portfolio / Holding / User: **camelCase** (`createdAt`, `avgCost`, `userId`, …)
+- Event (compare/market): **`occurred_at`** (snake_case) — ห้าม `occurredAt` บน wire
+- LLM summarize usage: `latency_ms` ตาม gateway
+
+Front ต้องอ่าน `occurred_at` จาก API (อย่า map ผิดแล้ว `.slice` บน undefined)
+

@@ -16,3 +16,4 @@
 - [changelog/2026-09-15-ui-shadcn.md](changelog/2026-09-15-ui-shadcn.md) — เลิก Mantine → shadcn/ui + Magic UI
 - [changelog/2026-09-15-ui-magic-antd.md](changelog/2026-09-15-ui-magic-antd.md) — เลิก shadcn → Magic UI + Ant Design
 - [changelog/2026-09-15-ui-smoke-screenshots.md](changelog/2026-09-15-ui-smoke-screenshots.md) — UI smoke ต้องมี screenshot
+- [changelog/2026-09-19-event-occurred-at.md](changelog/2026-09-19-event-occurred-at.md) — Event wire = occurred_at
